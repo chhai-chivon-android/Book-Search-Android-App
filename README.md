@@ -6,5 +6,5 @@
 
 * Utilizes [Loaders](https://developer.android.com/guide/components/loaders) to fetch the data asynchronously and displays it in list view 
 
-![Alt Text](https://media.giphy.com/media/eeiuqUTrOBzinSpPIm/giphy.gif)
+![Alt Text](https://media.giphy.com/media/PP3qy2pMmGyx0S9LQO/giphy.gif)
 
